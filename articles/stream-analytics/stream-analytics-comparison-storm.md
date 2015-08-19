@@ -251,7 +251,7 @@ While both provide benefits of a PaaS solution, there are a few major distinguis
             </td>
             <td width="204" valign="top">
                 <p>
-                    There is no support for extensible code in Stream Analytics.
+                    Stream Analytics provides a .Net SDK.
                 </p>
             </td>
             <td width="246" valign="top">
